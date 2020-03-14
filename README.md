@@ -1,4 +1,4 @@
-#Features
+# Features
 
 1. Home page with trending movies
 2. Search movies
